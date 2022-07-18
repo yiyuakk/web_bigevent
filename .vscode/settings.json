@@ -1,0 +1,5 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
