@@ -1,0 +1,24 @@
+html,
+body {
+    margin: 0;
+    display: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: #f2f3f5;
+}
+
+/* 标题区两边贴边对齐 */
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 添加分类、修改分类 的弹出层 */
+#form-add,
+#form-edit {
+    padding-top: 20px;
+    padding-right: 30px;
+}
